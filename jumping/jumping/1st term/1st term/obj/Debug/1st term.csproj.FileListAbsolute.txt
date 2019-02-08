@@ -1,0 +1,18 @@
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\bin\Debug\1st term.exe.config
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\bin\Debug\1st term.exe
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\bin\Debug\1st term.pdb
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\obj\Debug\1st term.csprojResolveAssemblyReference.cache
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\obj\Debug\_1st_term.Form1.resources
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\obj\Debug\_1st_term.Properties.Resources.resources
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\obj\Debug\1st term.csproj.GenerateResource.Cache
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\obj\Debug\1st term.exe
+C:\Users\New Pc\Desktop\jumping\jumping\1st term\1st term\obj\Debug\1st term.pdb
+E:\E_Commerce\jumping\jumping\1st term\1st term\bin\Debug\1st term.exe.config
+E:\E_Commerce\jumping\jumping\1st term\1st term\obj\Debug\1st term.exe
+E:\E_Commerce\jumping\jumping\1st term\1st term\obj\Debug\1st term.pdb
+E:\E_Commerce\jumping\jumping\1st term\1st term\bin\Debug\1st term.exe
+E:\E_Commerce\jumping\jumping\1st term\1st term\bin\Debug\1st term.pdb
+E:\E_Commerce\jumping\jumping\1st term\1st term\obj\Debug\1st term.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\jumping\1st term\1st term\obj\Debug\_1st_term.Form1.resources
+E:\E_Commerce\jumping\jumping\1st term\1st term\obj\Debug\_1st_term.Properties.Resources.resources
+E:\E_Commerce\jumping\jumping\1st term\1st term\obj\Debug\1st term.csproj.GenerateResource.Cache

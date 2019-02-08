@@ -1,0 +1,9 @@
+E:\E_Commerce\jumping\lbw2\lbw2\bin\Debug\lbw2.exe.config
+E:\E_Commerce\jumping\lbw2\lbw2\bin\Debug\lbw2.exe
+E:\E_Commerce\jumping\lbw2\lbw2\bin\Debug\lbw2.pdb
+E:\E_Commerce\jumping\lbw2\lbw2\obj\Debug\lbw2.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\lbw2\lbw2\obj\Debug\lbw2.Form1.resources
+E:\E_Commerce\jumping\lbw2\lbw2\obj\Debug\lbw2.Properties.Resources.resources
+E:\E_Commerce\jumping\lbw2\lbw2\obj\Debug\lbw2.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\lbw2\lbw2\obj\Debug\lbw2.exe
+E:\E_Commerce\jumping\lbw2\lbw2\obj\Debug\lbw2.pdb

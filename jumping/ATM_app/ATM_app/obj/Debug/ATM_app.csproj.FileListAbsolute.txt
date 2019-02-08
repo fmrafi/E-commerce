@@ -1,0 +1,15 @@
+E:\E_Commerce\jumping\ATM_app\ATM_app\bin\Debug\ATM_app.exe.config
+E:\E_Commerce\jumping\ATM_app\ATM_app\bin\Debug\ATM_app.exe
+E:\E_Commerce\jumping\ATM_app\ATM_app\bin\Debug\ATM_app.pdb
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.admin.resources
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.Form1.resources
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.Properties.Resources.resources
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.rafi.resources
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.exe
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.pdb
+E:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.ok.resources
+F:\E_Commerce\jumping\ATM_app\ATM_app\bin\Debug\ATM_app.exe.config
+F:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.exe
+F:\E_Commerce\jumping\ATM_app\ATM_app\obj\Debug\ATM_app.pdb

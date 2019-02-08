@@ -1,0 +1,18 @@
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\bin\Debug\multiplication.exe.config
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.csprojResolveAssemblyReference.cache
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.Form1.resources
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.Properties.Resources.resources
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.csproj.GenerateResource.Cache
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\bin\Debug\multiplication.exe
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\bin\Debug\multiplication.pdb
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.exe
+C:\Users\New Pc\Desktop\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.pdb
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\bin\Debug\multiplication.exe.config
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.exe
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.pdb
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\bin\Debug\multiplication.exe
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\bin\Debug\multiplication.pdb
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.Form1.resources
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.Properties.Resources.resources
+E:\E_Commerce\jumping\jumping\multiplication\multiplication\obj\Debug\multiplication.csproj.GenerateResource.Cache

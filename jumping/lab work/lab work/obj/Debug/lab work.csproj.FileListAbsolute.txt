@@ -1,0 +1,13 @@
+E:\E_Commerce\jumping\lab work\lab work\bin\Debug\lab work.exe.config
+E:\E_Commerce\jumping\lab work\lab work\bin\Debug\lab work.exe
+E:\E_Commerce\jumping\lab work\lab work\bin\Debug\lab work.pdb
+E:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab work.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab_work.homepage.resources
+E:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab_work.Properties.Resources.resources
+E:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab work.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab work.exe
+E:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab work.pdb
+E:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab_work.MainFrom.resources
+F:\E_Commerce\jumping\lab work\lab work\bin\Debug\lab work.exe.config
+F:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab work.exe
+F:\E_Commerce\jumping\lab work\lab work\obj\Debug\lab work.pdb

@@ -1,0 +1,12 @@
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\bin\Debug\PracticeApp.exe.config
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\bin\Debug\PracticeApp.exe
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\bin\Debug\PracticeApp.pdb
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\obj\Debug\PracticeApp.csprojResolveAssemblyReference.cache
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\obj\Debug\PracticeApp.Form1.resources
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\obj\Debug\PracticeApp.Properties.Resources.resources
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\obj\Debug\PracticeApp.csproj.GenerateResource.Cache
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\obj\Debug\PracticeApp.exe
+C:\Users\LAB4\Desktop\PracticeApp\PracticeApp\obj\Debug\PracticeApp.pdb
+E:\E_Commerce\Lab-2(C)\PracticeApp\PracticeApp\bin\Debug\PracticeApp.exe.config
+E:\E_Commerce\Lab-2(C)\PracticeApp\PracticeApp\obj\Debug\PracticeApp.exe
+E:\E_Commerce\Lab-2(C)\PracticeApp\PracticeApp\obj\Debug\PracticeApp.pdb

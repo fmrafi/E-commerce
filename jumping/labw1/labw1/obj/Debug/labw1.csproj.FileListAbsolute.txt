@@ -1,0 +1,8 @@
+E:\E_Commerce\jumping\labw1\labw1\bin\Debug\labw1.exe.config
+E:\E_Commerce\jumping\labw1\labw1\bin\Debug\labw1.exe
+E:\E_Commerce\jumping\labw1\labw1\bin\Debug\labw1.pdb
+E:\E_Commerce\jumping\labw1\labw1\obj\Debug\labw1.Form1.resources
+E:\E_Commerce\jumping\labw1\labw1\obj\Debug\labw1.Properties.Resources.resources
+E:\E_Commerce\jumping\labw1\labw1\obj\Debug\labw1.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\labw1\labw1\obj\Debug\labw1.exe
+E:\E_Commerce\jumping\labw1\labw1\obj\Debug\labw1.pdb

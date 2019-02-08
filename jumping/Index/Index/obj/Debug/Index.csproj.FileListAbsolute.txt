@@ -1,0 +1,14 @@
+E:\E_Commerce\jumping\Index\Index\bin\Debug\Index.exe.config
+E:\E_Commerce\jumping\Index\Index\bin\Debug\Index.exe
+E:\E_Commerce\jumping\Index\Index\bin\Debug\Index.pdb
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.AddBook.resources
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.Form1.resources
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.Properties.Resources.resources
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.Show.resources
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.exe
+E:\E_Commerce\jumping\Index\Index\obj\Debug\Index.pdb
+F:\E_Commerce\jumping\Index\Index\bin\Debug\Index.exe.config
+F:\E_Commerce\jumping\Index\Index\obj\Debug\Index.exe
+F:\E_Commerce\jumping\Index\Index\obj\Debug\Index.pdb

@@ -1,0 +1,14 @@
+E:\E_Commerce\jumping\add_city\add_city\bin\Debug\add_city.exe.config
+E:\E_Commerce\jumping\add_city\add_city\bin\Debug\add_city.exe
+E:\E_Commerce\jumping\add_city\add_city\bin\Debug\add_city.pdb
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.Country_Entry.resources
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.Form1.resources
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.Properties.Resources.resources
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.View_country.resources
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.exe
+E:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.pdb
+F:\E_Commerce\jumping\add_city\add_city\bin\Debug\add_city.exe.config
+F:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.exe
+F:\E_Commerce\jumping\add_city\add_city\obj\Debug\add_city.pdb

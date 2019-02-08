@@ -1,0 +1,9 @@
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\bin\Debug\InterestApp.exe.config
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\bin\Debug\InterestApp.exe
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\bin\Debug\InterestApp.pdb
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\obj\Debug\InterestApp.csprojResolveAssemblyReference.cache
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\obj\Debug\InterestApp.Form1.resources
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\obj\Debug\InterestApp.Properties.Resources.resources
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\obj\Debug\InterestApp.csproj.GenerateResource.Cache
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\obj\Debug\InterestApp.exe
+C:\Users\LAB4\Desktop\InterestApp\InterestApp\obj\Debug\InterestApp.pdb

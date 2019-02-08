@@ -1,0 +1,12 @@
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe.config
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.pdb
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.Form1.resources
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.Properties.Resources.resources
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csproj.GenerateResource.Cache
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.exe
+C:\Users\LAB4\Desktop\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.pdb
+E:\E_Commerce\Lab-2(C)\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe.config
+E:\E_Commerce\Lab-2(C)\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.exe
+E:\E_Commerce\Lab-2(C)\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.pdb

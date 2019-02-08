@@ -1,0 +1,9 @@
+E:\E_Commerce\jumping\practis\practis\bin\Debug\practis.exe.config
+E:\E_Commerce\jumping\practis\practis\bin\Debug\practis.exe
+E:\E_Commerce\jumping\practis\practis\bin\Debug\practis.pdb
+E:\E_Commerce\jumping\practis\practis\obj\Debug\practis.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\practis\practis\obj\Debug\practis.Form1.resources
+E:\E_Commerce\jumping\practis\practis\obj\Debug\practis.Properties.Resources.resources
+E:\E_Commerce\jumping\practis\practis\obj\Debug\practis.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\practis\practis\obj\Debug\practis.exe
+E:\E_Commerce\jumping\practis\practis\obj\Debug\practis.pdb

@@ -1,0 +1,12 @@
+E:\E_Commerce\jumping\infoapp\infoapp\bin\Debug\infoapp.exe.config
+E:\E_Commerce\jumping\infoapp\infoapp\bin\Debug\infoapp.exe
+E:\E_Commerce\jumping\infoapp\infoapp\bin\Debug\infoapp.pdb
+E:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.Form1.resources
+E:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.Properties.Resources.resources
+E:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.exe
+E:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.pdb
+F:\E_Commerce\jumping\infoapp\infoapp\bin\Debug\infoapp.exe.config
+F:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.exe
+F:\E_Commerce\jumping\infoapp\infoapp\obj\Debug\infoapp.pdb

@@ -1,0 +1,9 @@
+E:\E_Commerce\jumping\minical\minical\bin\Debug\minical.exe.config
+E:\E_Commerce\jumping\minical\minical\bin\Debug\minical.exe
+E:\E_Commerce\jumping\minical\minical\bin\Debug\minical.pdb
+E:\E_Commerce\jumping\minical\minical\obj\Debug\minical.csprojResolveAssemblyReference.cache
+E:\E_Commerce\jumping\minical\minical\obj\Debug\minical.Form1.resources
+E:\E_Commerce\jumping\minical\minical\obj\Debug\minical.Properties.Resources.resources
+E:\E_Commerce\jumping\minical\minical\obj\Debug\minical.csproj.GenerateResource.Cache
+E:\E_Commerce\jumping\minical\minical\obj\Debug\minical.exe
+E:\E_Commerce\jumping\minical\minical\obj\Debug\minical.pdb
